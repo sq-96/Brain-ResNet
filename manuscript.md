@@ -1,7 +1,6 @@
 ---
 author-meta:
 - Sheng Qian
-- Jane Roe
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-07'
@@ -43,18 +42,6 @@ header-includes: '<!--
 
   <meta name="citation_author_institution" content="Department of Human Genetics, University of Chicago" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
   <link rel="canonical" href="https://sq-96.github.io/Brain-ResNet/" />
 
   <meta property="og:url" content="https://sq-96.github.io/Brain-ResNet/" />
@@ -67,11 +54,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/230e9153476cd7bfe4a2458d556c239b7f8fb81d/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/3ed4a92b0100a7544d65471a4a483ca502466057/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/230e9153476cd7bfe4a2458d556c239b7f8fb81d/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/3ed4a92b0100a7544d65471a4a483ca502466057/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/230e9153476cd7bfe4a2458d556c239b7f8fb81d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/3ed4a92b0100a7544d65471a4a483ca502466057/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +90,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/230e9153476cd7bfe4a2458d556c239b7f8fb81d/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/3ed4a92b0100a7544d65471a4a483ca502466057/))
 was automatically generated
-from [sq-96/Brain-ResNet@230e915](https://github.com/sq-96/Brain-ResNet/tree/230e9153476cd7bfe4a2458d556c239b7f8fb81d)
+from [sq-96/Brain-ResNet@3ed4a92](https://github.com/sq-96/Brain-ResNet/tree/3ed4a92b0100a7544d65471a4a483ca502466057)
 on April 7, 2020.
 </em></small>
 
@@ -113,25 +100,9 @@ on April 7, 2020.
 
 
 
-+ **Sheng Qian**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [sq-96](https://github.com/sq-96)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
++ **Sheng Qian**<br><br>
   <small>
      Department of Human Genetics, University of Chicago
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
