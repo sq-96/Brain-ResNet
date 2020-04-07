@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Brain-ResNet" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Brain-ResNet" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Brain-ResNet" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Brain-ResNet" />
 
   <meta name="dc.date" content="2020-04-07" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/17acfcc328f6b0a8d4ed35d74fe172b78a9c7f31/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/39f1100357674a414021ae616f257cb4c7667e95/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/17acfcc328f6b0a8d4ed35d74fe172b78a9c7f31/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/39f1100357674a414021ae616f257cb4c7667e95/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/17acfcc328f6b0a8d4ed35d74fe172b78a9c7f31/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/39f1100357674a414021ae616f257cb4c7667e95/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Brain-ResNet
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/17acfcc328f6b0a8d4ed35d74fe172b78a9c7f31/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/39f1100357674a414021ae616f257cb4c7667e95/))
 was automatically generated
-from [sq-96/Brain-ResNet@17acfcc](https://github.com/sq-96/Brain-ResNet/tree/17acfcc328f6b0a8d4ed35d74fe172b78a9c7f31)
+from [sq-96/Brain-ResNet@39f1100](https://github.com/sq-96/Brain-ResNet/tree/39f1100357674a414021ae616f257cb4c7667e95)
 on April 7, 2020.
 </em></small>
 
