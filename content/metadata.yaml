@@ -7,21 +7,8 @@ keywords:
 lang: en-US
 authors:
   -
-    github: sq-96
     name: Sheng Qian
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
     email: shengqian@uchicago.edu
     affiliations:
       - Department of Human Genetics, University of Chicago
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+  
