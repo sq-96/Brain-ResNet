@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/c3df3c305d492b123e4c2b23701fc057c87ac3b7/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/431c095ec900b13e638a522ed887ede85f090f39/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/c3df3c305d492b123e4c2b23701fc057c87ac3b7/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/431c095ec900b13e638a522ed887ede85f090f39/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/c3df3c305d492b123e4c2b23701fc057c87ac3b7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/431c095ec900b13e638a522ed887ede85f090f39/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/c3df3c305d492b123e4c2b23701fc057c87ac3b7/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/431c095ec900b13e638a522ed887ede85f090f39/))
 was automatically generated
-from [sq-96/Brain-ResNet@c3df3c3](https://github.com/sq-96/Brain-ResNet/tree/c3df3c305d492b123e4c2b23701fc057c87ac3b7)
+from [sq-96/Brain-ResNet@431c095](https://github.com/sq-96/Brain-ResNet/tree/431c095ec900b13e638a522ed887ede85f090f39)
 on April 8, 2020.
 </em></small>
 
@@ -117,18 +117,6 @@ on April 8, 2020.
 **A square image at actual size and with a bottom caption.**
 Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/Resources/blob/c2d159caadb28736863aa92a31261dd380994ed3/test.png "Square image"){#fig:square-image}
-
-
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
-
-![
-**A sqnd with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/Resources/raw/c2d159caadb28736863aa92a31261dd380994ed3/test.png "Square image"){#fig:square-image}
-
 
 
 
