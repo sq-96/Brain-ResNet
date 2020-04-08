@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/))
 was automatically generated
-from [sq-96/Brain-ResNet@90aed48](https://github.com/sq-96/Brain-ResNet/tree/90aed48e8b308f26217a961047d85de5f8da00fc)
+from [sq-96/Brain-ResNet@651ab9f](https://github.com/sq-96/Brain-ResNet/tree/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa)
 on April 8, 2020.
 </em></small>
 
@@ -113,11 +113,15 @@ on April 8, 2020.
 
 ## Figures
 
+![
+**ASoC Enrichment.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "ASoC Enrichment")
 
 ![
-**A square image at actual size and with a bottom caption.**
+**GERP Score*
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/Resources/raw/master/test.png "Square image"){#fig:square-image}
+](https://github.com/sq-96/resources/raw/master/Gerp%20Score%20Distribution.png "GERP Score")
 
 
 ## References {.page_break_before}

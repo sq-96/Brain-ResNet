@@ -11,7 +11,7 @@
     "author-meta": [
       "Sheng Qian"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Brain-ResNet\" />\n<meta name=\"citation_title\" content=\"Brain-ResNet\" />\n<meta property=\"og:title\" content=\"Brain-ResNet\" />\n<meta property=\"twitter:title\" content=\"Brain-ResNet\" />\n<meta name=\"dc.date\" content=\"2020-04-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Sheng Qian\" />\n<link rel=\"canonical\" href=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta property=\"og:url\" content=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta property=\"twitter:url\" content=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta name=\"citation_pdf_url\" content=\"https://sq-96.github.io/Brain-ResNet/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://sq-96.github.io/Brain-ResNet/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Brain-ResNet\" />\n<meta name=\"citation_title\" content=\"Brain-ResNet\" />\n<meta property=\"og:title\" content=\"Brain-ResNet\" />\n<meta property=\"twitter:title\" content=\"Brain-ResNet\" />\n<meta name=\"dc.date\" content=\"2020-04-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Sheng Qian\" />\n<link rel=\"canonical\" href=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta property=\"og:url\" content=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta property=\"twitter:url\" content=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://sq-96.github.io/Brain-ResNet/\" />\n<meta name=\"citation_pdf_url\" content=\"https://sq-96.github.io/Brain-ResNet/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://sq-96.github.io/Brain-ResNet/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -32,19 +32,19 @@
       "repo_slug": "sq-96/Brain-ResNet",
       "repo_owner": "sq-96",
       "repo_name": "Brain-ResNet",
-      "commit": "90aed48e8b308f26217a961047d85de5f8da00fc",
-      "triggering_commit": "90aed48e8b308f26217a961047d85de5f8da00fc",
-      "build_url": "https://github.com/sq-96/Brain-ResNet/commit/90aed48e8b308f26217a961047d85de5f8da00fc/checks",
+      "commit": "651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa",
+      "triggering_commit": "651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa",
+      "build_url": "https://github.com/sq-96/Brain-ResNet/commit/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/checks",
       "job_url": "https://github.com/sq-96/Brain-ResNet/runs/run2"
     },
     "html_url": "https://sq-96.github.io/Brain-ResNet/",
     "pdf_url": "https://sq-96.github.io/Brain-ResNet/manuscript.pdf",
-    "html_url_versioned": "https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/",
-    "pdf_url_versioned": "https://sq-96.github.io/Brain-ResNet/v/90aed48e8b308f26217a961047d85de5f8da00fc/manuscript.pdf",
+    "html_url_versioned": "https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/",
+    "pdf_url_versioned": "https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "7c0f9c30fe03a6e264e19d08f2337266a4ea3e3e",
     "manuscript_stats": {
-      "word_count": 272
+      "word_count": 278
     }
   }
 }
