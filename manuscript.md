@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/))
 was automatically generated
-from [sq-96/Brain-ResNet@640a3ee](https://github.com/sq-96/Brain-ResNet/tree/640a3ee097918f5d852eb279df345c8053cc3bcb)
+from [sq-96/Brain-ResNet@a409042](https://github.com/sq-96/Brain-ResNet/tree/a409042dc81f3f14efa50e47a87b8a25370483d0)
 on April 8, 2020.
 </em></small>
 
@@ -121,7 +121,7 @@ Loaded from the latest version of image on GitHub.
 ![
 **GERP Score.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/raw/master/Gerp%20Score%20Distribution.png "GERP Score")
+](https://github.com/sq-96/resources/raw/master/GERP%20Score.png "GERP Score")
 
 
 ## References {.page_break_before}
