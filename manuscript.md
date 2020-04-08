@@ -40,8 +40,6 @@ header-includes: '<!--
 
   <meta name="citation_author" content="Sheng Qian" />
 
-  <meta name="citation_author_institution" content="Department of Human Genetics, University of Chicago" />
-
   <link rel="canonical" href="https://sq-96.github.io/Brain-ResNet/" />
 
   <meta property="og:url" content="https://sq-96.github.io/Brain-ResNet/" />
@@ -54,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/97e8b722f0b4153a64ed2c782437b1e7a737b68e/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/97e8b722f0b4153a64ed2c782437b1e7a737b68e/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/97e8b722f0b4153a64ed2c782437b1e7a737b68e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -90,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/97e8b722f0b4153a64ed2c782437b1e7a737b68e/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/))
 was automatically generated
-from [sq-96/Brain-ResNet@97e8b72](https://github.com/sq-96/Brain-ResNet/tree/97e8b722f0b4153a64ed2c782437b1e7a737b68e)
+from [sq-96/Brain-ResNet@307d1e3](https://github.com/sq-96/Brain-ResNet/tree/307d1e3460a83e287d215035b07f6f38c91c348a)
 on April 8, 2020.
 </em></small>
 
@@ -102,7 +100,6 @@ on April 8, 2020.
 
 + **Sheng Qian**<br><br>
   <small>
-     Department of Human Genetics, University of Chicago
   </small>
 
 
