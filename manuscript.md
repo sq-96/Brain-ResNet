@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a4a722bfc044d846c441d828bc77bf987958d702/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/d8d9e72714b392c453a7807b0a606dc1a5533d9b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a4a722bfc044d846c441d828bc77bf987958d702/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/d8d9e72714b392c453a7807b0a606dc1a5533d9b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a4a722bfc044d846c441d828bc77bf987958d702/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/d8d9e72714b392c453a7807b0a606dc1a5533d9b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/a4a722bfc044d846c441d828bc77bf987958d702/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/d8d9e72714b392c453a7807b0a606dc1a5533d9b/))
 was automatically generated
-from [sq-96/Brain-ResNet@a4a722b](https://github.com/sq-96/Brain-ResNet/tree/a4a722bfc044d846c441d828bc77bf987958d702)
+from [sq-96/Brain-ResNet@d8d9e72](https://github.com/sq-96/Brain-ResNet/tree/d8d9e72714b392c453a7807b0a606dc1a5533d9b)
 on April 8, 2020.
 </em></small>
 
@@ -117,6 +117,12 @@ on April 8, 2020.
 **A square image at actual size and with a bottom caption.**
 Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/Resources/blob/c2d159caadb28736863aa92a31261dd380994ed3/test.png "Square image"){#fig:square-image}
+
+
+![
+**An image too wide to fit within page at full size.**
+Loaded from a specific (hashed) version of the image on GitHub.
+](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
 
 
 
