@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/a409042dc81f3f14efa50e47a87b8a25370483d0/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/))
 was automatically generated
-from [sq-96/Brain-ResNet@a409042](https://github.com/sq-96/Brain-ResNet/tree/a409042dc81f3f14efa50e47a87b8a25370483d0)
+from [sq-96/Brain-ResNet@8ff9ba9](https://github.com/sq-96/Brain-ResNet/tree/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862)
 on April 8, 2020.
 </em></small>
 
@@ -113,15 +113,17 @@ on April 8, 2020.
 
 ## Figures
 
-![
-**ASoC Enrichment.**
+![**ASoC Enrichment.**
 Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "ASoC Enrichment")
 
-![
-**GERP Score.**
+![**GERP Score.**
 Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/resources/raw/master/GERP%20Score.png "GERP Score")
+
+![**Allele Frequency.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/resources/raw/master/All.png "GERP Score")
 
 
 ## References {.page_break_before}
