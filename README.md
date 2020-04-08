@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/sq-96/Brain-ResNet/tree/gh-pages) branch hosts the contents of this directory at <https://sq-96.github.io/Brain-ResNet/>.
-The permalink for this webpage version is <https://sq-96.github.io/Brain-ResNet/v/d8d9e72714b392c453a7807b0a606dc1a5533d9b/>.
+The permalink for this webpage version is <https://sq-96.github.io/Brain-ResNet/v/c3df3c305d492b123e4c2b23701fc057c87ac3b7/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://sq-96.github.io/Brain-ResNet/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`d8d9e72714b392c453a7807b0a606dc1a5533d9b`](https://github.com/sq-96/Brain-ResNet/commit/d8d9e72714b392c453a7807b0a606dc1a5533d9b).
+[`c3df3c305d492b123e4c2b23701fc057c87ac3b7`](https://github.com/sq-96/Brain-ResNet/commit/c3df3c305d492b123e4c2b23701fc057c87ac3b7).
