@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/640a3ee097918f5d852eb279df345c8053cc3bcb/))
 was automatically generated
-from [sq-96/Brain-ResNet@651ab9f](https://github.com/sq-96/Brain-ResNet/tree/651ab9f70ce693a1669cb4fa32ba3fbc8aa28bfa)
+from [sq-96/Brain-ResNet@640a3ee](https://github.com/sq-96/Brain-ResNet/tree/640a3ee097918f5d852eb279df345c8053cc3bcb)
 on April 8, 2020.
 </em></small>
 
@@ -119,7 +119,7 @@ Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "ASoC Enrichment")
 
 ![
-**GERP Score*
+**GERP Score.**
 Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/resources/raw/master/Gerp%20Score%20Distribution.png "GERP Score")
 
