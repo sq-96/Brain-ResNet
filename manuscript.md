@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/49a3d50cd15950e6ac21fe85617fc62c9f91c3ef/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/49a3d50cd15950e6ac21fe85617fc62c9f91c3ef/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/49a3d50cd15950e6ac21fe85617fc62c9f91c3ef/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/307d1e3460a83e287d215035b07f6f38c91c348a/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/49a3d50cd15950e6ac21fe85617fc62c9f91c3ef/))
 was automatically generated
-from [sq-96/Brain-ResNet@307d1e3](https://github.com/sq-96/Brain-ResNet/tree/307d1e3460a83e287d215035b07f6f38c91c348a)
+from [sq-96/Brain-ResNet@49a3d50](https://github.com/sq-96/Brain-ResNet/tree/49a3d50cd15950e6ac21fe85617fc62c9f91c3ef)
 on April 8, 2020.
 </em></small>
 
@@ -111,6 +111,12 @@ on April 8, 2020.
 
 ## Results {.page_break_before}
 
+## Figures
+
+![
+**A square image at actual size and with a bottom caption.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/Resources/blob/master/test.png "Square image"){#fig:square-image}
 
 
 
