@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-07'
+date-meta: '2020-04-08'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-04-07" />
+  <meta name="dc.date" content="2020-04-08" />
 
-  <meta name="citation_publication_date" content="2020-04-07" />
+  <meta name="citation_publication_date" content="2020-04-08" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -54,11 +54,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/b62e2465d3c707657a27f0f7edf680ab0687365e/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/1cdd43db9f45bd6d55ce23ca943d232fa0516ae6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b62e2465d3c707657a27f0f7edf680ab0687365e/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/1cdd43db9f45bd6d55ce23ca943d232fa0516ae6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b62e2465d3c707657a27f0f7edf680ab0687365e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/1cdd43db9f45bd6d55ce23ca943d232fa0516ae6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -90,10 +90,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/b62e2465d3c707657a27f0f7edf680ab0687365e/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/1cdd43db9f45bd6d55ce23ca943d232fa0516ae6/))
 was automatically generated
-from [sq-96/Brain-ResNet@b62e246](https://github.com/sq-96/Brain-ResNet/tree/b62e2465d3c707657a27f0f7edf680ab0687365e)
-on April 7, 2020.
+from [sq-96/Brain-ResNet@1cdd43d](https://github.com/sq-96/Brain-ResNet/tree/1cdd43db9f45bd6d55ce23ca943d232fa0516ae6)
+on April 8, 2020.
 </em></small>
 
 ## Authors
@@ -108,6 +108,11 @@ on April 7, 2020.
 
 
 ## Abstract {.page_break_before}
+
+
+
+
+## Results {.page_break_before}
 
 
 
