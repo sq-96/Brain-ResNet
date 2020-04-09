@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/888aa2640248756786bd03cf9271af5edc0a18cd/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/291e3a137d5f39d06e87eb4551187d5d57babf03/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/888aa2640248756786bd03cf9271af5edc0a18cd/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/291e3a137d5f39d06e87eb4551187d5d57babf03/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/888aa2640248756786bd03cf9271af5edc0a18cd/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/291e3a137d5f39d06e87eb4551187d5d57babf03/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/888aa2640248756786bd03cf9271af5edc0a18cd/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/291e3a137d5f39d06e87eb4551187d5d57babf03/))
 was automatically generated
-from [sq-96/Brain-ResNet@888aa26](https://github.com/sq-96/Brain-ResNet/tree/888aa2640248756786bd03cf9271af5edc0a18cd)
+from [sq-96/Brain-ResNet@291e3a1](https://github.com/sq-96/Brain-ResNet/tree/291e3a137d5f39d06e87eb4551187d5d57babf03)
 on April 9, 2020.
 </em></small>
 
@@ -116,7 +116,13 @@ on April 9, 2020.
 ![
 **ASoC Enrichment.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "Square image")
+](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "Square image"){#fig:ASoC Enrichment}
+
+![
+**GERP Score Distribution.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "Square image"){#fig:GERP Score Distribution}
+
 
 
 ## References {.page_break_before}
