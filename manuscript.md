@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-08'
+date-meta: '2020-04-09'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-04-08" />
+  <meta name="dc.date" content="2020-04-09" />
 
-  <meta name="citation_publication_date" content="2020-04-08" />
+  <meta name="citation_publication_date" content="2020-04-09" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/72958129149d85d2ca4960d8240c25485d9e0ded/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/72958129149d85d2ca4960d8240c25485d9e0ded/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/72958129149d85d2ca4960d8240c25485d9e0ded/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/72958129149d85d2ca4960d8240c25485d9e0ded/))
 was automatically generated
-from [sq-96/Brain-ResNet@8ff9ba9](https://github.com/sq-96/Brain-ResNet/tree/8ff9ba9ed6fd7d2b06180b22fb3051cce3787862)
-on April 8, 2020.
+from [sq-96/Brain-ResNet@7295812](https://github.com/sq-96/Brain-ResNet/tree/72958129149d85d2ca4960d8240c25485d9e0ded)
+on April 9, 2020.
 </em></small>
 
 ## Authors
@@ -116,14 +116,6 @@ on April 8, 2020.
 ![**ASoC Enrichment.**
 Loaded from the latest version of image on GitHub.
 ](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "ASoC Enrichment")
-
-![**GERP Score.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/raw/master/GERP%20Score.png "GERP Score")
-
-![**Allele Frequency.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/raw/master/All.png "GERP Score")
 
 
 ## References {.page_break_before}
