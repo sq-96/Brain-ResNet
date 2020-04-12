@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/9a5c0f509a3572a2bb642035a239f53219149997/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/f9202b56aff09a43f62253557561d9404b4a434e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/9a5c0f509a3572a2bb642035a239f53219149997/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/f9202b56aff09a43f62253557561d9404b4a434e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/9a5c0f509a3572a2bb642035a239f53219149997/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/f9202b56aff09a43f62253557561d9404b4a434e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/9a5c0f509a3572a2bb642035a239f53219149997/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/f9202b56aff09a43f62253557561d9404b4a434e/))
 was automatically generated
-from [sq-96/Brain-ResNet@9a5c0f5](https://github.com/sq-96/Brain-ResNet/tree/9a5c0f509a3572a2bb642035a239f53219149997)
+from [sq-96/Brain-ResNet@f9202b5](https://github.com/sq-96/Brain-ResNet/tree/f9202b56aff09a43f62253557561d9404b4a434e)
 on April 12, 2020.
 </em></small>
 
@@ -107,6 +107,11 @@ on April 12, 2020.
 ## Abstract {.page_break_before}
 
 Decoding the regulatory behavior of DNA sequences and the functional effects of noncoding variants is a preeminent challenge in understanding the mechanisms of gene regulation. This is also important for the genetics of common diseases, as most disease-associated variants are located in noncoding regions of the genome. Recently, Convolutional Neural Networks (CNNs) based methods have been developed to predict genome-wide chromatin profiles in various cellular contexts. However, these tools and resources were often trained in cell lines or bulk tissues that are not necessarily disease-related. This is particularly an issue for neuropsychiatric disorders, where the most relevant cell and tissue types are missing in the training data used by current tools. Here we introduce a Convolutional Residual Networks (ResNet) based architecture that trains with user-provided epigenomic profiles in specific cell types while borrowing information from an extensive compendium of publicly available chromatin profiles via transfer learning. We applied this framework to a collection of epigenomic data representing early neurodevelopment, including data from iPS cell derived neurons and fetal brain. We show that our method predicts chromatin accessibility of Induced Pluripotent Stem Cell(iPSC) derived neuronal cells with higher accuracy than previous methods. Using a list of experimentally derived chromatin accessibility variants, we show that our models can predict regulatory variants with better accuracy than publicly available noncoding variant scoring tools. We also found that with the transfer learning framework, we can recover cell-type-specific motifs from our architecture, shedding light on possible regulatory mechanisms in specific cell types. In summary, we provide a general deep transfer learning framework to train on user-provided epigenomic data, and our resources would be useful for studying neuropsychiatric diseases.
+
+
+## Introduction {.page_break_before}
+
+Next-generation sequencing(NGS) technologies have given rise to the development of many sequencing assays such as ATAC-seq[7], DNase-seq[49], ChIPseq[39], RNA-seq[58], and FIAR-seq[19] that measure the epigenomic landscapes across many cellular contexts, including histone marks, TF binding and chromatin accessibility. These epigenomic annotations aid the characterization of noncoding genomic variants and show promises in assessing disease-associated variants and understanding the underlying transcription machinery[31, 53]. There has been a joint effort to survey the noncoding part of the human genome by the community, and numerous noncoding genomic sites have been statistically identified for association with complex traits[11]. Leveraging these resources, researchers have developed machine learning models to learn features of DNA sequences that predict chromatin profiles such as protein binding sites, chromatin accessibility, histone marks and methylation of DNA sequences[2, 30, 4, 40, 13, 43, 61]. Once a sequence based model is trained to predict a certain epigenomic feature, a researcher can use it to predict the likely epigenomic effect of a DNA variant. 
 
 
 ## Results {.page_break_before}
