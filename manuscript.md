@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/9d6e221952a1d1297b57d089f879dd3dc86247f8/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/9d6e221952a1d1297b57d089f879dd3dc86247f8/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/9d6e221952a1d1297b57d089f879dd3dc86247f8/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/9d6e221952a1d1297b57d089f879dd3dc86247f8/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/))
 was automatically generated
-from [sq-96/Brain-ResNet@9d6e221](https://github.com/sq-96/Brain-ResNet/tree/9d6e221952a1d1297b57d089f879dd3dc86247f8)
+from [sq-96/Brain-ResNet@4ca5473](https://github.com/sq-96/Brain-ResNet/tree/4ca54733612338626e1338b0b858a77daea328c4)
 on April 12, 2020.
 </em></small>
 
@@ -116,13 +116,13 @@ Next-generation sequencing(NGS) technologies have given rise to the development 
 
 ## Results {.page_break_before}
 
-### Enrichment of ASoC Variants
+#### Enrichment of ASoC Variants
 
-### Evolutionary Constraint
+#### Evolutionary Constraint
 
-### Sign Consistentcy
+#### Sign Consistentcy
  
-### Negtive Selection
+#### Negtive Selection
 
 ## Figures
 
