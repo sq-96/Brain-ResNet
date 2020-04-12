@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/b6b195d0c8e2396c24cdd0e79b664272bcf44bb6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b6b195d0c8e2396c24cdd0e79b664272bcf44bb6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b6b195d0c8e2396c24cdd0e79b664272bcf44bb6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/b6b195d0c8e2396c24cdd0e79b664272bcf44bb6/))
 was automatically generated
-from [sq-96/Brain-ResNet@fa7bb59](https://github.com/sq-96/Brain-ResNet/tree/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8)
+from [sq-96/Brain-ResNet@b6b195d](https://github.com/sq-96/Brain-ResNet/tree/b6b195d0c8e2396c24cdd0e79b664272bcf44bb6)
 on April 12, 2020.
 </em></small>
 
@@ -130,6 +130,7 @@ Functionally important variants tend to be under evolutionary constraint. We cal
 
 #### 4. Purifying Selection
 
+Because more DNA changes are harmful than are beneficial, negative selection plays an important role in maintaining the long-term stability of biological structures by removing deleterious mutations. This is especially true for functionally important variants, whose change may disrupt essential biological functions. We obtained minor allele frequency from gnomAD database for all variants within peak regions of 31 chromatin profiles and plotted them against their predicted functional effects. As shown in fig4, variants with larger predicted functional effects tend to have lower minor allele frequency, which indicates the acting of purifying selection. 
 
 
 
