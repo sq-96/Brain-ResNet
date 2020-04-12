@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/))
 was automatically generated
-from [sq-96/Brain-ResNet@49dfb10](https://github.com/sq-96/Brain-ResNet/tree/49dfb10ce72c55c4f70e7cba147b510c0917ed6e)
+from [sq-96/Brain-ResNet@64e4b38](https://github.com/sq-96/Brain-ResNet/tree/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e)
 on April 12, 2020.
 </em></small>
 
@@ -140,7 +140,7 @@ Loaded from the latest version of image on GitHub.
 ![
 **Minor Allele Frequency.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/blob/master/sign%20consistency.png "Square image"){#fig:Minor Allele Frequency}
+](https://github.com/sq-96/resources/raw/master/CN_NSC_DN_GA.png "Square image"){#fig:Minor Allele Frequency}
 
 ![
 **Heatmap.**
