@@ -43,9 +43,9 @@
   <meta name="citation_fulltext_html_url" content="https://sq-96.github.io/Brain-ResNet/" />
   <meta name="citation_pdf_url" content="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/" />
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/" />
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/">permalink</a>)
+(<a href="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/sq-96/Brain-ResNet/tree/b054afa075ba6ad4675405133faf1ae7ae821244">sq-96/Brain-ResNet@b054afa</a>
+from <a href="https://github.com/sq-96/Brain-ResNet/tree/277442c2e48917884226a4c88f9a596496cf6e1b">sq-96/Brain-ResNet@277442c</a>
 on April 12, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -76,6 +76,7 @@ on April 12, 2020.
 <p>Next-generation sequencing(NGS) technologies have given rise to the development of many sequencing assays such as ATAC-seq<span class="citation" data-cites="1F3lyuFKW">[<a href="#ref-1F3lyuFKW" role="doc-biblioref">1</a>]</span>, DNase-seq<span class="citation" data-cites="tcucJ6Fa">[<a href="#ref-tcucJ6Fa" role="doc-biblioref">2</a>]</span>, ChIPseq, RNA-seq, and FIAR-seq that measure the epigenomic landscapes across many cellular contexts, including histone marks, TF binding and chromatin accessibility. These epigenomic annotations aid the characterization of noncoding genomic variants and show promises in assessing disease-associated variants and understanding the underlying transcription machinery. There has been a joint effort to survey the noncoding part of the human genome by the community, and numerous noncoding genomic sites have been statistically identified for association with complex traits. Leveraging these resources, researchers have developed machine learning models to learn features of DNA sequences that predict chromatin profiles such as protein binding sites, chromatin accessibility, histone marks and methylation of DNA sequences. Once a sequence based model is trained to predict a certain epigenomic feature, a researcher can use it to predict the likely epigenomic effect of a DNA variant.</p>
 <h2 class="page_break_before" id="results">Results</h2>
 <h4 id="enrichment-of-asoc-variants">1. Enrichment of ASoC Variants</h4>
+<p>To validate our predicion model, we first performed enrichment analysis of allele-specific open-chromatin (ASoC) variants. Genetic variants prioritized by our prediction model are expected to have lagre functional effects. One way to test our hypothesis is calculating the enrichment of some genetic variants with konwn functional effects in our top predictions. ASoC variants are overrepresented in brain enhancers, transcription-factor-binding sites, and quantitative-trait-loci associated with gene expression, histone modification, and DNA methylation. We obtained ASoC variants in neural progenitor cells (NPC) and glutamatergic (iN-Glut) neurons from a neuron ATAC-seq study. We then acquired single nucleotide variants in open chromatin regions of NPC and iN-Glut by mapping against 1000 Genome and prioritized them by our Brain-ResNet scores. The top 10,000 predicted genetic variants show 4 fold enrichment of ASoC variants in NPC and iN-Glut. AS a comparsion, we also prioritized genetic variants with Functional significance (Funsig) score and CADD score. Funsig is a measure of the signficance of magnitude of predicted chromatin effect and evolutionary conservation and CADD score is a measure of the deleteriousness of genetic variants. As shown in Fig1, our Brain-ResNet scoring outperforms Funsig and CADD scoring in terms of identifying function variants.</p>
 <h4 id="evolutionary-constraint">2. Evolutionary Constraint</h4>
 <h4 id="sign-consistentcy">3. Sign Consistentcy</h4>
 <h4 id="negtive-selection">4. Negtive Selection</h4>

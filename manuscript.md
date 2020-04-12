@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/b054afa075ba6ad4675405133faf1ae7ae821244/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/))
 was automatically generated
-from [sq-96/Brain-ResNet@b054afa](https://github.com/sq-96/Brain-ResNet/tree/b054afa075ba6ad4675405133faf1ae7ae821244)
+from [sq-96/Brain-ResNet@277442c](https://github.com/sq-96/Brain-ResNet/tree/277442c2e48917884226a4c88f9a596496cf6e1b)
 on April 12, 2020.
 </em></small>
 
@@ -117,6 +117,8 @@ Next-generation sequencing(NGS) technologies have given rise to the development 
 ## Results {.page_break_before}
 
 #### 1. Enrichment of ASoC Variants
+
+To validate our predicion model, we first performed enrichment analysis of allele-specific open-chromatin (ASoC) variants. Genetic variants prioritized by our prediction model are expected to have lagre functional effects. One way to test our hypothesis is calculating the enrichment of some genetic variants with konwn functional effects in our top predictions. ASoC variants are overrepresented in brain enhancers, transcription-factor-binding sites, and quantitative-trait-loci associated with gene expression, histone modification, and DNA methylation. We obtained ASoC variants in neural progenitor cells (NPC) and glutamatergic (iN-Glut) neurons from a neuron ATAC-seq study. We then acquired single nucleotide variants in open chromatin regions of NPC and iN-Glut by mapping against 1000 Genome and prioritized them by our Brain-ResNet scores. The top 10,000 predicted genetic variants show 4 fold enrichment of ASoC variants in NPC and iN-Glut. AS a comparsion, we also prioritized genetic variants with Functional significance (Funsig) score and CADD score. Funsig is a measure of the signficance of magnitude of predicted chromatin effect and evolutionary conservation and CADD score is a measure of the deleteriousness of genetic variants. As shown in Fig1, our Brain-ResNet scoring outperforms Funsig and CADD scoring in terms of identifying function variants.
 
 #### 2. Evolutionary Constraint
 
