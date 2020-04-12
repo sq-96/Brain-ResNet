@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/))
 was automatically generated
-from [sq-96/Brain-ResNet@64e4b38](https://github.com/sq-96/Brain-ResNet/tree/64e4b38c7f7c4d2f4555c929c0e57aaf0052ad7e)
+from [sq-96/Brain-ResNet@a675ece](https://github.com/sq-96/Brain-ResNet/tree/a675ece416844e3ed4e6fab99da14bbad8b6ea0a)
 on April 12, 2020.
 </em></small>
 
@@ -116,10 +116,7 @@ Next-generation sequencing(NGS) technologies have given rise to the development 
 
 ## Results {.page_break_before}
 
-## Citations
 
-Citation by DOI [@doi:10.1371/journal.pcbi.1007068].
- 
 ## Figures
 
 ![
