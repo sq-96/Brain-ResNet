@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/72cb015090d19803b7bb3254e39b71b582805a7e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/72cb015090d19803b7bb3254e39b71b582805a7e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/72cb015090d19803b7bb3254e39b71b582805a7e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/a675ece416844e3ed4e6fab99da14bbad8b6ea0a/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/72cb015090d19803b7bb3254e39b71b582805a7e/))
 was automatically generated
-from [sq-96/Brain-ResNet@a675ece](https://github.com/sq-96/Brain-ResNet/tree/a675ece416844e3ed4e6fab99da14bbad8b6ea0a)
+from [sq-96/Brain-ResNet@72cb015](https://github.com/sq-96/Brain-ResNet/tree/72cb015090d19803b7bb3254e39b71b582805a7e)
 on April 12, 2020.
 </em></small>
 
@@ -132,7 +132,7 @@ Loaded from the latest version of image on GitHub.
 ![
 **Sign Consistency.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/blob/master/sign%20consistency.png "Square image"){#fig:Sign Consistency}
+](https://github.com/sq-96/resources/raw/master/sign%20consistency.png "Square image"){#fig:Sign Consistency}
 
 ![
 **Minor Allele Frequency.**
@@ -142,7 +142,7 @@ Loaded from the latest version of image on GitHub.
 ![
 **Heatmap.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/blob/master/heatmap.png "Square image"){#fig:Heatmap)
+](https://github.com/sq-96/resources/raw/master/heatmap.png "Square image"){#fig:Heatmap)
 
 
 
