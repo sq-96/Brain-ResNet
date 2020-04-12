@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-09'
+date-meta: '2020-04-12'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-04-09" />
+  <meta name="dc.date" content="2020-04-12" />
 
-  <meta name="citation_publication_date" content="2020-04-09" />
+  <meta name="citation_publication_date" content="2020-04-12" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/ac84802dcd6f7da173fd3ad39d01ea41e8b0b99b/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/589d5ee194bc74ba5e3966c684f42c8f78c40093/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/ac84802dcd6f7da173fd3ad39d01ea41e8b0b99b/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/589d5ee194bc74ba5e3966c684f42c8f78c40093/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/ac84802dcd6f7da173fd3ad39d01ea41e8b0b99b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/589d5ee194bc74ba5e3966c684f42c8f78c40093/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/ac84802dcd6f7da173fd3ad39d01ea41e8b0b99b/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/589d5ee194bc74ba5e3966c684f42c8f78c40093/))
 was automatically generated
-from [sq-96/Brain-ResNet@ac84802](https://github.com/sq-96/Brain-ResNet/tree/ac84802dcd6f7da173fd3ad39d01ea41e8b0b99b)
-on April 9, 2020.
+from [sq-96/Brain-ResNet@589d5ee](https://github.com/sq-96/Brain-ResNet/tree/589d5ee194bc74ba5e3966c684f42c8f78c40093)
+on April 12, 2020.
 </em></small>
 
 ## Authors
@@ -106,7 +106,7 @@ on April 9, 2020.
 
 ## Abstract {.page_break_before}
 
-
+Decoding the regulatory behavior of DNA sequences and the functional effects of noncoding variants is a preeminent challenge in understanding the mechanisms of gene regulation. This is also important for the genetics of common diseases, as most disease-associated variants are located in noncoding regions of the genome. Recently, Convolutional Neural Networks (CNNs) based methods have been developed to predict genome-wide chromatin profiles in various cellular contexts. However, these tools and resources were often trained in cell lines or bulk tissues that are not necessarily disease-related. This is particularly an issue for neuropsychiatric disorders, where the most relevant cell and tissue types are missing in the training data used by current tools. Here we introduce a Convolutional Residual Networks (ResNet) based architecture that trains with user-provided epigenomic profiles in specific cell types while borrowing information from an extensive compendium of publicly available chromatin profiles via transfer learning. We applied this framework to a collection of epigenomic data representing early neurodevelopment, including data from iPS cell derived neurons and fetal brain. We show that our method predicts chromatin accessibility of Induced Pluripotent Stem Cell(iPSC) derived neuronal cells with higher accuracy than previous methods. Using a list of experimentally derived chromatin accessibility variants, we show that our models can predict regulatory variants with better accuracy than publicly available noncoding variant scoring tools. We also found that with the transfer learning framework, we can recover cell-type-specific motifs from our architecture, shedding light on possible regulatory mechanisms in specific cell types. In summary, we provide a general deep transfer learning framework to train on user-provided epigenomic data, and our resources would be useful for studying neuropsychiatric diseases.
 
 
 ## Results {.page_break_before}
