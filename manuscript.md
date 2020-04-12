@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/0b1961546be3ba2748c7223d1167d722abc505c5/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/0b1961546be3ba2748c7223d1167d722abc505c5/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/0b1961546be3ba2748c7223d1167d722abc505c5/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/0b1961546be3ba2748c7223d1167d722abc505c5/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/49dfb10ce72c55c4f70e7cba147b510c0917ed6e/))
 was automatically generated
-from [sq-96/Brain-ResNet@0b19615](https://github.com/sq-96/Brain-ResNet/tree/0b1961546be3ba2748c7223d1167d722abc505c5)
+from [sq-96/Brain-ResNet@49dfb10](https://github.com/sq-96/Brain-ResNet/tree/49dfb10ce72c55c4f70e7cba147b510c0917ed6e)
 on April 12, 2020.
 </em></small>
 
@@ -111,7 +111,7 @@ Decoding the regulatory behavior of DNA sequences and the functional effects of 
 
 ## Introduction {.page_break_before}
 
-Next-generation sequencing(NGS) technologies have given rise to the development of many sequencing assays such as ATAC-seq[7], DNase-seq[49], ChIPseq[39], RNA-seq[58], and FIAR-seq[19] that measure the epigenomic landscapes across many cellular contexts, including histone marks, TF binding and chromatin accessibility. These epigenomic annotations aid the characterization of noncoding genomic variants and show promises in assessing disease-associated variants and understanding the underlying transcription machinery[31, 53]. There has been a joint effort to survey the noncoding part of the human genome by the community, and numerous noncoding genomic sites have been statistically identified for association with complex traits[11]. Leveraging these resources, researchers have developed machine learning models to learn features of DNA sequences that predict chromatin profiles such as protein binding sites, chromatin accessibility, histone marks and methylation of DNA sequences[2, 30, 4, 40, 13, 43, 61]. Once a sequence based model is trained to predict a certain epigenomic feature, a researcher can use it to predict the likely epigenomic effect of a DNA variant. 
+Next-generation sequencing(NGS) technologies have given rise to the development of many sequencing assays such as ATAC-seq[@doi:10.1002/0471142727.mb2129s109], DNase-seq[@doi:10.1101/pdb.prot5384], ChIPseq, RNA-seq, and FIAR-seq that measure the epigenomic landscapes across many cellular contexts, including histone marks, TF binding and chromatin accessibility. These epigenomic annotations aid the characterization of noncoding genomic variants and show promises in assessing disease-associated variants and understanding the underlying transcription machinery. There has been a joint effort to survey the noncoding part of the human genome by the community, and numerous noncoding genomic sites have been statistically identified for association with complex traits. Leveraging these resources, researchers have developed machine learning models to learn features of DNA sequences that predict chromatin profiles such as protein binding sites, chromatin accessibility, histone marks and methylation of DNA sequences. Once a sequence based model is trained to predict a certain epigenomic feature, a researcher can use it to predict the likely epigenomic effect of a DNA variant. 
 
 
 ## Results {.page_break_before}
@@ -130,7 +130,22 @@ Loaded from the latest version of image on GitHub.
 ![
 **GERP Score Distribution.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "Square image"){#fig:GERP Score Distribution}
+](https://github.com/sq-96/resources/raw/master/GERP%20Score.png "Square image"){#fig:GERP Score Distribution}
+
+![
+**Sign Consistency.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/resources/blob/master/sign%20consistency.png "Square image"){#fig:Sign Consistency}
+
+![
+**Minor Allele Frequency.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/resources/blob/master/sign%20consistency.png "Square image"){#fig:Minor Allele Frequency}
+
+![
+**Heatmap.**
+Loaded from the latest version of image on GitHub.
+](https://github.com/sq-96/resources/blob/master/heatmap.png "Square image"){#fig:Heatmap)
 
 
 
