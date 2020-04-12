@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/4ca54733612338626e1338b0b858a77daea328c4/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/))
 was automatically generated
-from [sq-96/Brain-ResNet@4ca5473](https://github.com/sq-96/Brain-ResNet/tree/4ca54733612338626e1338b0b858a77daea328c4)
+from [sq-96/Brain-ResNet@91215e7](https://github.com/sq-96/Brain-ResNet/tree/91215e75ddedec061b632bda3679fef29f60c9e2)
 on April 12, 2020.
 </em></small>
 
@@ -116,13 +116,13 @@ Next-generation sequencing(NGS) technologies have given rise to the development 
 
 ## Results {.page_break_before}
 
-#### Enrichment of ASoC Variants
+#### 1. Enrichment of ASoC Variants
 
-#### Evolutionary Constraint
+#### 2. Evolutionary Constraint
 
-#### Sign Consistentcy
+#### 3. Sign Consistentcy
  
-#### Negtive Selection
+#### 4. Negtive Selection
 
 ## Figures
 
@@ -149,7 +149,7 @@ Loaded from the latest version of image on GitHub.
 ![
 **Heatmap.**
 Loaded from the latest version of image on GitHub.
-](https://github.com/sq-96/resources/raw/master/heatmap.png "Square image"){#fig:Heatmap)
+](https://github.com/sq-96/resources/raw/master/heatmap.png "Square image"){#fig:Heatmap}
 
 
 
