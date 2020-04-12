@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/277442c2e48917884226a4c88f9a596496cf6e1b/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8/))
 was automatically generated
-from [sq-96/Brain-ResNet@277442c](https://github.com/sq-96/Brain-ResNet/tree/277442c2e48917884226a4c88f9a596496cf6e1b)
+from [sq-96/Brain-ResNet@fa7bb59](https://github.com/sq-96/Brain-ResNet/tree/fa7bb5934270c40c4e83018a5dd84fc4d02ef3f8)
 on April 12, 2020.
 </em></small>
 
@@ -118,13 +118,20 @@ Next-generation sequencing(NGS) technologies have given rise to the development 
 
 #### 1. Enrichment of ASoC Variants
 
-To validate our predicion model, we first performed enrichment analysis of allele-specific open-chromatin (ASoC) variants. Genetic variants prioritized by our prediction model are expected to have lagre functional effects. One way to test our hypothesis is calculating the enrichment of some genetic variants with konwn functional effects in our top predictions. ASoC variants are overrepresented in brain enhancers, transcription-factor-binding sites, and quantitative-trait-loci associated with gene expression, histone modification, and DNA methylation. We obtained ASoC variants in neural progenitor cells (NPC) and glutamatergic (iN-Glut) neurons from a neuron ATAC-seq study. We then acquired single nucleotide variants in open chromatin regions of NPC and iN-Glut by mapping against 1000 Genome and prioritized them by our Brain-ResNet scores. The top 10,000 predicted genetic variants show 4 fold enrichment of ASoC variants in NPC and iN-Glut. AS a comparsion, we also prioritized genetic variants with Functional significance (Funsig) score and CADD score. Funsig is a measure of the signficance of magnitude of predicted chromatin effect and evolutionary conservation and CADD score is a measure of the deleteriousness of genetic variants. As shown in Fig1, our Brain-ResNet scoring outperforms Funsig and CADD scoring in terms of identifying function variants.
+To validate our predicion model, we first performed enrichment analysis of allele-specific open-chromatin (ASoC) variants. Genetic variants prioritized by our prediction model are expected to have lagre functional effects. One way to test our hypothesis is calculating the enrichment of some genetic variants with konwn functional effects in our top predictions. ASoC variants are overrepresented in brain enhancers, transcription-factor-binding sites, and quantitative-trait-loci associated with gene expression, histone modification, and DNA methylation. We obtained ASoC variants in neural progenitor cells (NPC) and glutamatergic (iN-Glut) neurons from a neuron ATAC-seq study. We then acquired single nucleotide variants in open chromatin regions of NPC and iN-Glut by mapping against 1000 Genome and prioritized them by our Brain-ResNet scores. The top 10,000 predicted genetic variants show 4 fold enrichment of ASoC variants in NPC and iN-Glut. AS a comparsion, we also prioritized genetic variants with Functional significance (Funsig) score and CADD score. Funsig is a measure of the signficance of magnitude of predicted chromatin effect and evolutionary conservation and CADD score is a measure of the deleteriousness of genetic variants. As shown in fig1, our Brain-ResNet scoring outperforms Funsig and CADD scoring in terms of identifying function variants.
 
-#### 2. Evolutionary Constraint
+#### 2. Sign Consistentcy
 
-#### 3. Sign Consistentcy
- 
-#### 4. Negtive Selection
+Next, we applied our prediction model to NPC and iN-Glut ASoC variants and compared the observed allelic imbalance and the predicted difference in functional effects between reference and alternative alleles. Our prediction model tracks the observed allelic imbalance ratio with a correlation of 0.44 and 0.40. Notably, we found 70% variants show consistent sign in observed allelic imbalace and estimated effect, which demonstrates taht the prediction model accurately captures the direction of effect. 
+
+#### 3. Evolutionary Constraint
+
+Functionally important variants tend to be under evolutionary constraint. We calculated GERP score, which measures the number of substitutions "rejected" by evolutionary constraint, for top predicted variants and randomly sampled variants in 31 cell types. Higehr GERP score indicates greater magnitude of evolutionary constraint. As shown in fig3, for most cell types, our prediction model successfully prioritized genetic variants that are under higher evolutionary constraint and more likely to have siginificant biological functions. 
+
+#### 4. Purifying Selection
+
+
+
 
 ## Figures
 
@@ -140,7 +147,7 @@ Bar plot comparing the evolutionary constraint between two groups in 31 cell typ
 
 ![
 **Sign Consistency.**
-Scatter plot comparing the observed allelic imbalance and the predicted difference in chromatin activity between reference and alternative alleles.
+Scatter plot comparing the observed allelic imbalance and the predicted difference in functional effects between reference and alternative alleles.
 ](https://github.com/sq-96/resources/raw/master/sign%20consistency.png "Square image"){#fig:Sign Consistency}
 
 ![
