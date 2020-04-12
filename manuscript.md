@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/581e508cd2b6a0199f70f6a57790623b9f98fec5/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/581e508cd2b6a0199f70f6a57790623b9f98fec5/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/581e508cd2b6a0199f70f6a57790623b9f98fec5/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/91215e75ddedec061b632bda3679fef29f60c9e2/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/581e508cd2b6a0199f70f6a57790623b9f98fec5/))
 was automatically generated
-from [sq-96/Brain-ResNet@91215e7](https://github.com/sq-96/Brain-ResNet/tree/91215e75ddedec061b632bda3679fef29f60c9e2)
+from [sq-96/Brain-ResNet@581e508](https://github.com/sq-96/Brain-ResNet/tree/581e508cd2b6a0199f70f6a57790623b9f98fec5)
 on April 12, 2020.
 </em></small>
 
@@ -138,7 +138,7 @@ Loaded from the latest version of image on GitHub.
 
 ![
 **Sign Consistency.**
-Loaded from the latest version of image on GitHub.
+Scatter plot comparing the observed allelic imbalance and the predicted difference in chromatin activity between reference and alternative alleles.
 ](https://github.com/sq-96/resources/raw/master/sign%20consistency.png "Square image"){#fig:Sign Consistency}
 
 ![
