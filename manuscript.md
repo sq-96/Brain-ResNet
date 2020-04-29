@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/d68e40f0eb990bda313b886ee4aa3686bee1cd9e/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/c3ac484944c5117ad1c0979bfc78ca5e7f94befd/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/d68e40f0eb990bda313b886ee4aa3686bee1cd9e/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/c3ac484944c5117ad1c0979bfc78ca5e7f94befd/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/d68e40f0eb990bda313b886ee4aa3686bee1cd9e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/c3ac484944c5117ad1c0979bfc78ca5e7f94befd/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/d68e40f0eb990bda313b886ee4aa3686bee1cd9e/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/c3ac484944c5117ad1c0979bfc78ca5e7f94befd/))
 was automatically generated
-from [sq-96/Brain-ResNet@d68e40f](https://github.com/sq-96/Brain-ResNet/tree/d68e40f0eb990bda313b886ee4aa3686bee1cd9e)
+from [sq-96/Brain-ResNet@c3ac484](https://github.com/sq-96/Brain-ResNet/tree/c3ac484944c5117ad1c0979bfc78ca5e7f94befd)
 on April 29, 2020.
 </em></small>
 
@@ -165,6 +165,11 @@ Scatter plot showing the negtive correlation between minor allele frequency and 
 **Heatmap.**
 Heatmap showing functional effects of credible set SNPs in 31 cell types.
 ](https://github.com/sq-96/resources/raw/master/heatmap_col_norm.png "Square image"){#fig:Heatmap}
+
+![
+**Tracks.**
+Scatter plot showing pvalue, pip and functional effects of the candidate SNP.
+](https://github.com/sq-96/resources/raw/master/rs13261217_CSMD1.png "Square image"){#fig:Heatmap}
 
 
 
