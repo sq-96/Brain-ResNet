@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/d2dc037ccaeb3e0a19eccbd80c273788c065375b/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/02f5f2cc0d86104b80f6691196ebbabcfa710b5f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/d2dc037ccaeb3e0a19eccbd80c273788c065375b/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/02f5f2cc0d86104b80f6691196ebbabcfa710b5f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/d2dc037ccaeb3e0a19eccbd80c273788c065375b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/02f5f2cc0d86104b80f6691196ebbabcfa710b5f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/d2dc037ccaeb3e0a19eccbd80c273788c065375b/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/02f5f2cc0d86104b80f6691196ebbabcfa710b5f/))
 was automatically generated
-from [sq-96/Brain-ResNet@d2dc037](https://github.com/sq-96/Brain-ResNet/tree/d2dc037ccaeb3e0a19eccbd80c273788c065375b)
+from [sq-96/Brain-ResNet@02f5f2c](https://github.com/sq-96/Brain-ResNet/tree/02f5f2cc0d86104b80f6691196ebbabcfa710b5f)
 on April 29, 2020.
 </em></small>
 
@@ -148,7 +148,7 @@ Bar plot comparing the enrichment of allele specific open chromatin variants amo
 ![
 **GERP Score Distribution.**
 Bar plot comparing the evolutionary constraint between two groups in 31 cell types.
-](https://github.com/sq-96/resources/raw/master/GERP%20Score.png "Square image"){#fig:GERP Score Distribution}
+](https://github.com/sq-96/resources/raw/master/GERP_Score.png "Square image"){#fig:GERP Score Distribution}
 
 ![
 **Sign Consistency.**
@@ -158,12 +158,12 @@ Scatter plot comparing the observed allelic imbalance and the predicted differen
 ![
 **Minor Allele Frequency.**
 Scatter plot showing the negtive correlation between minor allele frequency and Brain-ResNet predicted scores.
-](https://github.com/sq-96/resources/raw/master/NSC_CN_GA_DN.png "Square image"){#fig:Minor Allele Frequency}
+](https://github.com/sq-96/resources/raw/master/AF%20vs%20Score.png "Square image"){#fig:Minor Allele Frequency}
 
 ![
 **Heatmap.**
 Heatmap showing functional effects of credible set SNPs in 31 cell types.
-](https://github.com/sq-96/resources/raw/master/heatmap.png "Square image"){#fig:Heatmap}
+](https://github.com/sq-96/resources/raw/master/heatmap_col_norm.png "Square image"){#fig:Heatmap}
 
 
 
