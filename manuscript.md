@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-30'
+date-meta: '2020-05-02'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-04-30" />
+  <meta name="dc.date" content="2020-05-02" />
 
-  <meta name="citation_publication_date" content="2020-04-30" />
+  <meta name="citation_publication_date" content="2020-05-02" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/467ece2f8f7e09d18c5a55b08e4655b1cff9fa08/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/467ece2f8f7e09d18c5a55b08e4655b1cff9fa08/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/467ece2f8f7e09d18c5a55b08e4655b1cff9fa08/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/467ece2f8f7e09d18c5a55b08e4655b1cff9fa08/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/))
 was automatically generated
-from [sq-96/Brain-ResNet@467ece2](https://github.com/sq-96/Brain-ResNet/tree/467ece2f8f7e09d18c5a55b08e4655b1cff9fa08)
-on April 30, 2020.
+from [sq-96/Brain-ResNet@a823634](https://github.com/sq-96/Brain-ResNet/tree/a8236340bc7bb2fd81c2901b38f1797e9cf24f17)
+on May 2, 2020.
 </em></small>
 
 ## Authors
@@ -164,7 +164,7 @@ Scatter plot showing the negtive correlation between minor allele frequency and 
 ![
 **Heatmap.**
 Heatmap showing functional effects of credible set SNPs in 31 cell types.
-](https://github.com/sq-96/resources/raw/master/heatmap_col_norm.png "Square image"){#fig:Heatmap}
+](https://github.com/sq-96/resources/raw/master/GWAS_red.png "Square image"){#fig:Heatmap}
 
 ![
 **Tracks.**
