@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-02'
+date-meta: '2020-05-03'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-05-02" />
+  <meta name="dc.date" content="2020-05-03" />
 
-  <meta name="citation_publication_date" content="2020-05-02" />
+  <meta name="citation_publication_date" content="2020-05-03" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/a8236340bc7bb2fd81c2901b38f1797e9cf24f17/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/))
 was automatically generated
-from [sq-96/Brain-ResNet@a823634](https://github.com/sq-96/Brain-ResNet/tree/a8236340bc7bb2fd81c2901b38f1797e9cf24f17)
-on May 2, 2020.
+from [sq-96/Brain-ResNet@a8afcc9](https://github.com/sq-96/Brain-ResNet/tree/a8afcc9c5b3f4516c21ad343139d30d46888bf61)
+on May 3, 2020.
 </em></small>
 
 ## Authors
@@ -118,7 +118,7 @@ Next-generation sequencing(NGS) technologies have given rise to the development 
 
 #### 1. Enrichment of ASoC Variants
 
-To validate our predicion model, we first performed enrichment analysis of allele-specific open-chromatin (ASoC) variants. Genetic variants prioritized by our prediction model are expected to have large functional effects. We hypothesize that our predictions are enriched for genetic variants with some known functions. ASoC variants have been established to be functional in brain, impacting gene expresison, histone modification and DNA methylation. We obtained ASoC variants in neural progenitor cells (NPC) and glutamatergic (iN-Glut) neurons from a neuron ATAC-Seq study. We then acquired all single nucleotide variants in open chromatin regions of NPC and iN-Glut and prioritized them by our NPC and iN-Glut Brain-ResNet scores. The top 10,000 predicted genetic variants show 4 fold enrichment of ASoC variants in NPC and iN-Glut. To show the strength of our model, we also prioritized genetic variants within open chromatin regions by Functional significance (Funsig) score and CADD score. Funsig is a measure of the signficance of magnitude of predicted chromatin effect and evolutionary conservation, and CADD score is a measure of the deleteriousness of genetic variants. As shown in Fig1, our Brain-ResNet scoring significantly outperforms Funsig and CADD scoring. This gaining may arise from two apsects. First, our model uses functional genomic data from matched cell types, which could more accurately reveal the chromatin status. Second, our model uses ResNet architecture and is based on transfer learning, which could more precisely learn regulatory codes from DNA sequences. To further address the importance of matched cell types, we used Brain-ResNet scores from the other 30 cell types to prioritize genetic variants in NPC and iN-Glut. As shown in Fig2, top predictions prioritized by matched cell types generally have higher enrichment of ASoC variants.
+To validate our predicion model, we first performed enrichment analysis of allele-specific open-chromatin (ASoC) variants. Genetic variants prioritized by our prediction model are expected to have large functional effects. We hypothesize that our predictions are enriched for genetic variants with some known functions. ASoC variants have been established to be functional in brain, impacting gene expresison, histone modification and DNA methylation[@doi:10.1101/827048]. We obtained ASoC variants in neural progenitor cells (NPC) and glutamatergic (iN-Glut) neurons from a neuron ATAC-Seq study[@doi:10.1101/827048]. We then acquired all single nucleotide variants in open chromatin regions of NPC and iN-Glut and prioritized them by our NPC and iN-Glut Brain-ResNet scores. The top 10,000 predicted genetic variants show 4 fold enrichment of ASoC variants in NPC and iN-Glut. To show the strength of our model, we also prioritized genetic variants within open chromatin regions by Functional significance (Funsig) score and CADD score[@doi:10.1038/nmeth.3547;@doi:10.1038/ng.2892]. Funsig is a measure of the signficance of magnitude of predicted chromatin effect and evolutionary conservation, and CADD score is a measure of the deleteriousness of genetic variants. As shown in Fig1, our Brain-ResNet scoring significantly outperforms Funsig and CADD scoring. This gaining may arise from two apsects. First, our model uses functional genomic data from matched cell types, which could more accurately reveal the chromatin status. Second, our model uses ResNet architecture and is based on transfer learning, which could more precisely learn regulatory codes from DNA sequences. To further address the importance of matched cell types, we used Brain-ResNet scores from the other 30 cell types to prioritize genetic variants in NPC and iN-Glut. As shown in Fig2, top predictions prioritized by matched cell types generally have higher enrichment of ASoC variants.
 
 #### 2. Sign Consistentcy
 
@@ -126,11 +126,11 @@ Functional genetic variants either increase or decrease intensity of a certein a
 
 #### 3. Evolutionary Constraint
 
-Evolutionary constraint has shown to be useful in identifying functionally important regions. Leveraging this strategy, we calculated GERP score for top predicted variants and randomly sampled variants in 31 cell types. GERP score measures the number of substitutions "rejected" by evolutionary constraint and higehr GERP score indicates greater magnitude of evolutionary constraint. As shown in Fig4, for most cell types, our prediction model successfully prioritized genetic variants that are under higher evolutionary constraint and are more likely to have actual biological functions. 
+Evolutionary constraint has shown to be useful in identifying functionally important regions[@doi:10.1101/gr.102210.109]. Leveraging this strategy, we calculated GERP score for top predicted variants and randomly sampled variants in 31 cell types. GERP score measures the number of substitutions "rejected" by evolutionary constraint and higehr GERP score indicates greater magnitude of evolutionary constraint[@doi:10.1371/journal.pcbi.1001025]. As shown in Fig4, for most cell types, our prediction model successfully prioritized genetic variants that are under higher evolutionary constraint and are more likely to have actual biological functions. 
 
 #### 4. Purifying Selection
 
-Because DNA variations are more likely to be deleterious than beneficial, negative selection are required to remove damaing mutations and maintain the stability of biology system. This is especially true for functionally important variants, whose change may disrupt essential biological functions. To investigate if our Brain-ResNet score could indicate functional effects, we obtained minor allele frequency from gnomAD database for all variants within peak regions of 31 chromatin profiles and plotted them against their predicted functional effects. As shown in Fig5, there is a clear negtive correlation between minor allele frequency and Brain-ResNet score. Genetic variants with larger predicted functional effects tend to have lower minor allele frequency, which indicates the acting of negtive selection. This evidence suggests that our Brain-ResNet score is a good predictor of functional importance. 
+Because DNA variations are more likely to be deleterious than beneficial, negative selection are required to remove damaing mutations and maintain the stability of biology system [@url:https://www.nature.com/scitable/topicpage/negative-selection-1136/]. This is especially true for functionally important variants, whose change may disrupt essential biological functions. To investigate if our Brain-ResNet score could indicate functional effects, we obtained minor allele frequency from gnomAD database for all variants within peak regions of 31 chromatin profiles and plotted them against their predicted functional effects. As shown in Fig5, there is a clear negtive correlation between minor allele frequency and Brain-ResNet score. Genetic variants with larger predicted functional effects tend to have lower minor allele frequency, which indicates the acting of negtive selection. This evidence suggests that our Brain-ResNet score is a good predictor of functional importance. 
 
 
 
