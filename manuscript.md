@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/7c3f41a9573e1fbd6e3ca3fc37b25724d69f1bd8/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/f375ef05aac032f2c64093e26a0c4915d28bb3ee/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/7c3f41a9573e1fbd6e3ca3fc37b25724d69f1bd8/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/f375ef05aac032f2c64093e26a0c4915d28bb3ee/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/7c3f41a9573e1fbd6e3ca3fc37b25724d69f1bd8/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/f375ef05aac032f2c64093e26a0c4915d28bb3ee/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/7c3f41a9573e1fbd6e3ca3fc37b25724d69f1bd8/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/f375ef05aac032f2c64093e26a0c4915d28bb3ee/))
 was automatically generated
-from [sq-96/Brain-ResNet@7c3f41a](https://github.com/sq-96/Brain-ResNet/tree/7c3f41a9573e1fbd6e3ca3fc37b25724d69f1bd8)
+from [sq-96/Brain-ResNet@f375ef0](https://github.com/sq-96/Brain-ResNet/tree/f375ef05aac032f2c64093e26a0c4915d28bb3ee)
 on May 11, 2020.
 </em></small>
 
@@ -174,7 +174,7 @@ Scatter plot showing pvalue, pip and functional effects of the candidate SNP.
 
 
 #### 1. Enrichment of ASoC Variants
-All single nucleotide variants (SNVs) within functional regions (open chromatin or H3K27ac) in each cell type are retrieved from 1000 Genomes Project. SNVs are then ranked by MetaChrom score, Funsig score and CADD score in descending order and the top 10,000 variants are selected as potential functional variants. In each functional regions, we also randomly sampled 100,000 variants as control variants. Funsig score is from the DeepSEA Server and CADD score is from annovar. 
+All single nucleotide variants (SNVs) within functional regions (open chromatin or H3K27ac) in each cell type are retrieved from 1000 Genomes Project. SNVs are then ranked by MetaChrom score, Funsig score and CADD score in descending order and the top 10,000 variants are selected as potential functional variants. In each functional regions, we also randomly sampled 100,000 variants as control variants. Funsig score is from the DeepSEA Server and CADD score is from annovar. ASC variants in NPC and Glut are obtained from a neuron ATAC-seq paper. We count the number of ASC variants in potential functional variants and control variants, and Enrichment of ASC variants is calculated by fisher exact test. 
 
 #### 2. Sign Consistentcy
 
