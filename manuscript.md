@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-03'
+date-meta: '2020-05-11'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-05-03" />
+  <meta name="dc.date" content="2020-05-11" />
 
-  <meta name="citation_publication_date" content="2020-05-03" />
+  <meta name="citation_publication_date" content="2020-05-11" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/bd35cefe08f9aa130f9825a6f04c792a66e0bb36/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/bd35cefe08f9aa130f9825a6f04c792a66e0bb36/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/bd35cefe08f9aa130f9825a6f04c792a66e0bb36/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/a8afcc9c5b3f4516c21ad343139d30d46888bf61/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/bd35cefe08f9aa130f9825a6f04c792a66e0bb36/))
 was automatically generated
-from [sq-96/Brain-ResNet@a8afcc9](https://github.com/sq-96/Brain-ResNet/tree/a8afcc9c5b3f4516c21ad343139d30d46888bf61)
-on May 3, 2020.
+from [sq-96/Brain-ResNet@bd35cef](https://github.com/sq-96/Brain-ResNet/tree/bd35cefe08f9aa130f9825a6f04c792a66e0bb36)
+on May 11, 2020.
 </em></small>
 
 ## Authors
@@ -170,6 +170,9 @@ Heatmap showing functional effects of credible set SNPs in 31 cell types.
 **Tracks.**
 Scatter plot showing pvalue, pip and functional effects of the candidate SNP.
 ](https://github.com/sq-96/resources/raw/master/rs13261217_CSMD1.png "Square image"){#fig:Heatmap}
+
+
+
 
 
 
