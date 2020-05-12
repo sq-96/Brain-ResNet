@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/615f7ba7f249ac5a1ddf715c51e64bb271bd18a3/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/615f7ba7f249ac5a1ddf715c51e64bb271bd18a3/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/615f7ba7f249ac5a1ddf715c51e64bb271bd18a3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/615f7ba7f249ac5a1ddf715c51e64bb271bd18a3/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/))
 was automatically generated
-from [sq-96/Brain-ResNet@615f7ba](https://github.com/sq-96/Brain-ResNet/tree/615f7ba7f249ac5a1ddf715c51e64bb271bd18a3)
+from [sq-96/Brain-ResNet@6f1f362](https://github.com/sq-96/Brain-ResNet/tree/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b)
 on May 12, 2020.
 </em></small>
 
@@ -184,7 +184,7 @@ GERP scores of potential functional variants and control variants are generated 
 
 
 #### 4. Purifying Selection
-Minor allele frequency of potential functional variants and control variants is obtained from gnomAD. 
+Minor allele frequency of potential functional variants and control variants is obtained from gnomAD. The MetaChrom score ranges from 0 to 1. We splitted variants into 5 bins according to the MetaChrom score, We created five bins, namely 0-0.05, 0.05-0.1, 0.1-0.15, 0.15-0.2 and 0.2-1.0, and split variants into bins according their MetaChrom score. In each bin, We calculated the mean of minor allele frequency and standard error of the mean.
 
 
 ## References {.page_break_before}
