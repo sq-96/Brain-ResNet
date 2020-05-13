@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-12'
+date-meta: '2020-05-13'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-05-12" />
+  <meta name="dc.date" content="2020-05-13" />
 
-  <meta name="citation_publication_date" content="2020-05-12" />
+  <meta name="citation_publication_date" content="2020-05-13" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/c73d7becabd6a5ad634a61a38fd64ce0183e2a93/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/c73d7becabd6a5ad634a61a38fd64ce0183e2a93/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/c73d7becabd6a5ad634a61a38fd64ce0183e2a93/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/c73d7becabd6a5ad634a61a38fd64ce0183e2a93/))
 was automatically generated
-from [sq-96/Brain-ResNet@6f1f362](https://github.com/sq-96/Brain-ResNet/tree/6f1f3626b288d90aafb8bc18cb75afcbf984bd3b)
-on May 12, 2020.
+from [sq-96/Brain-ResNet@c73d7be](https://github.com/sq-96/Brain-ResNet/tree/c73d7becabd6a5ad634a61a38fd64ce0183e2a93)
+on May 13, 2020.
 </em></small>
 
 ## Authors
@@ -137,29 +137,9 @@ Because DNA variations are more likely to be deleterious than beneficial, negati
 ## Figures
 
 ![
-**ASoC Enrichment.**
-Bar plot comparing the enrichment of allele specific open chromatin variants among three groups in two cell types.
-](https://github.com/sq-96/resources/raw/master/ASoC%20Enrichment.png "Square image"){#fig:ASoC Enrichment}
-
-![
-**Cell Type Check.**
-Bar plot comparing the enrichment of allele specific open chromatin variants among 31 groups in two cell types.
-](https://github.com/sq-96/resources/raw/master/cell%20type%20check.png "Square image"){#fig:ASoC Enrichment}
-
-![
-**GERP Score Distribution.**
-Bar plot comparing the evolutionary constraint between two groups in 31 cell types.
-](https://github.com/sq-96/resources/raw/master/GERP_Score.png "Square image"){#fig:GERP Score Distribution}
-
-![
-**Sign Consistency.**
-Scatter plot comparing the observed allelic imbalance and the predicted difference in functional effects between reference and alternative alleles.
-](https://github.com/sq-96/resources/raw/master/sign%20consistency.png "Square image"){#fig:Sign Consistency}
-
-![
-**Minor Allele Frequency.**
-Scatter plot showing the negtive correlation between minor allele frequency and Brain-ResNet predicted scores.
-](https://github.com/sq-96/resources/raw/master/AF%20vs%20Score.png "Square image"){#fig:Minor Allele Frequency}
+**Figure1.**
+Figure1.
+](https://github.com/sq-96/resources/raw/master/Figure-01.png "Square image"){#fig:ASoC Enrichment}
 
 ![
 **Heatmap.**
