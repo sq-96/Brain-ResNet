@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/01e509a56882a4f52eac8e037b864b8207a8c875/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/01e509a56882a4f52eac8e037b864b8207a8c875/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/01e509a56882a4f52eac8e037b864b8207a8c875/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/01e509a56882a4f52eac8e037b864b8207a8c875/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/))
 was automatically generated
-from [sq-96/Brain-ResNet@01e509a](https://github.com/sq-96/Brain-ResNet/tree/01e509a56882a4f52eac8e037b864b8207a8c875)
+from [sq-96/Brain-ResNet@a80414d](https://github.com/sq-96/Brain-ResNet/tree/a80414d82c0179f3af2e72ed8e10ed3d716538be)
 on June 3, 2020.
 </em></small>
 
@@ -137,8 +137,8 @@ Because DNA variations are more likely to be deleterious than beneficial, negati
 ## Figures
 
 ![
-**Figure1.**
-Figure1.
+**Validation of MetaChrom predicted functional variants.**
+(A) Distribution of GERP scores between MetaChrom predicted functional variants and random variants in fetal brain cell types. (B) Minor allele frequency by MetaChrom score for variants within open chromatin region in 4 cell types. (C) Enrichment of ASC variants for predicted functional variants identified by MetaChrom, Funsig and CADD score in Glut and NPC cells. (D) Scatter plot comparing the observed allelic imbalace and MetaCHrom predicted effect on chromatin accessibility of ASC variants.
 ](https://github.com/sq-96/resources/raw/master/Figure-01.png "Square image"){#fig:ASoC Enrichment}
 
 ![
