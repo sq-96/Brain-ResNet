@@ -3,7 +3,7 @@ author-meta:
 - Sheng Qian
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-03'
+date-meta: '2020-06-04'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Brain-ResNet" />
 
-  <meta name="dc.date" content="2020-06-03" />
+  <meta name="dc.date" content="2020-06-04" />
 
-  <meta name="citation_publication_date" content="2020-06-03" />
+  <meta name="citation_publication_date" content="2020-06-04" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sq-96.github.io/Brain-ResNet/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/" />
+  <link rel="alternate" type="text/html" href="https://sq-96.github.io/Brain-ResNet/v/ae95dead1af4be1bc00379c58e356fe169ea7505/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/" />
+  <meta name="manubot_html_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/ae95dead1af4be1bc00379c58e356fe169ea7505/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sq-96.github.io/Brain-ResNet/v/ae95dead1af4be1bc00379c58e356fe169ea7505/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,10 +88,10 @@ title: Brain-ResNet
 
 <small><em>
 This manuscript
-([permalink](https://sq-96.github.io/Brain-ResNet/v/a80414d82c0179f3af2e72ed8e10ed3d716538be/))
+([permalink](https://sq-96.github.io/Brain-ResNet/v/ae95dead1af4be1bc00379c58e356fe169ea7505/))
 was automatically generated
-from [sq-96/Brain-ResNet@a80414d](https://github.com/sq-96/Brain-ResNet/tree/a80414d82c0179f3af2e72ed8e10ed3d716538be)
-on June 3, 2020.
+from [sq-96/Brain-ResNet@ae95dea](https://github.com/sq-96/Brain-ResNet/tree/ae95dead1af4be1bc00379c58e356fe169ea7505)
+on June 4, 2020.
 </em></small>
 
 ## Authors
@@ -153,16 +153,14 @@ Scatter plot showing pvalue, pip and functional effects of the candidate SNP.
 
 
 
-#### 1. Enrichment of ASoC Variants
-All single nucleotide variants (SNVs) within functional regions (open chromatin or H3K27ac) in each cell type are retrieved from 1000 Genomes Project. SNVs are then ranked by MetaChrom score, Funsig score and CADD score in descending order and the top 10,000 variants are selected as potential functional variants. In each functional regions, we also randomly sampled 100,000 variants as control variants. Funsig score is from the DeepSEA Server and CADD score is from annovar. ASC variants in NPC and Glut are obtained from a neuron ATAC-seq paper. We count the number of ASC variants in potential functional variants and control variants, and Enrichment of ASC variants is calculated by fisher exact test. 
-
-In the neuron ATAC-seq study, iPSCs of 20 individuals are differentiated into neural progenitor cells (NPC) and gutamatergic (iN-Glut) neurons. ATAC-seq is perform in each cell type, and 5,611 and 3,547 ASoC SNPs are identified in NPC and iN-Glut cells by allelic imbalance test, respectively.
+#### 1. Enrichment of ASC Variants
+All single nucleotide variants (SNVs) within functional regions (open chromatin or H3K27ac) in each cell type are retrieved from 1000 Genomes Project. We calculate MetaChrom score, Funsig score and CADD score for all SNVs. Funsig score is obtained from the DeepSEA Server and CADD score is obtained from annovar. We define the top 10,000 variants ranked by MetaChrom score, Funsig score and CADD score in descending order as MetaChrom, Funsig and CADD predicted functional variants, respectively. ASC variants in NPC and Glut cells are obtained from a neuron ATAC-seq paper. In the neuron ATAC-seq study, iPSCs of 20 individuals are first differentiated into neural progenitor cells (NPC) and gutamatergic (iN-Glut) neurons. Then, ATAC-seq is performed, and 5,611 and 3,547 ASoC SNPs are identified in NPC and iN-Glut cells by allelic imbalance test, respectively. We count the number of ASC variants in predicted functional variants and control variants, and the Enrichment of ASC variants is calculated by fisher exact test. 
 
 #### 2. Sign Consistentcy
-For ASC variants, we define its observed allelic imbalance as log(ref reads/alt reads) and predicted allelic imbalace as log(ref pred/alt pred). Correlation between observed allelic imbalance and predicted allelic imbalace is calcualted by Spearman's rank correlation coefficient.
+For ASC variants, we define its observed allelic imbalance as log(ref reads/alt reads) and predicted effect on chromatin accessibility as log(ref pred/alt pred). Correlation between observed allelic imbalance and predicted effect on chromatin accessibility is calcualted by Spearman's rank correlation coefficient.
 
 #### 3. Evolutionary Constraint
-GERP scores of potential functional variants and control variants are generated by Annovar. P value is calculated by the Wilcoxon Rank-Sum Test.
+GERP scores of MetaChrom predicted functional variants and control variants are generated by Annovar. P value is calculated by the Wilcoxon Rank-Sum Test.
 
 
 #### 4. Purifying Selection
